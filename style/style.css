@@ -52,7 +52,9 @@
 /* main section er css suru */
 main{
     margin: 0 auto; 
-    max-width: 100%;
+}
+section{
+ 
 }
 /* section 1 */
 .failures{
@@ -60,7 +62,7 @@ main{
     height: 724px;
     margin-left: 210px;
     margin-right: 350px;
-    margin-top: 120px;
+    margin-top: 12
     
 }
 .fail{
