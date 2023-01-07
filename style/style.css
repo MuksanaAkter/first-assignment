@@ -44,17 +44,15 @@
     font-size: 20px;
     font-weight: 600;
     color: rgb(0, 95, 172);
-    margin-left: 79%;
+    margin-left: 1380px;
    
 }
 /* header er css sesh */
 
 /* main section er css suru */
 main{
-    margin: 0 auto; 
-}
-section{
- 
+    margin: 0 auto;
+    max-width: 1200px; 
 }
 /* section 1 */
 .failures{
